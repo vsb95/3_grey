@@ -1,0 +1,14 @@
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.MainForm.resources
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.Properties.Resources.resources
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.csproj.GenerateResource.Cache
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\bin\Debug\WindowsFormsApplication03.exe.config
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\bin\Debug\WindowsFormsApplication03.exe
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\bin\Debug\WindowsFormsApplication03.pdb
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.exe
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.pdb
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.csprojResolveAssemblyReference.cache
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.FormAdmin.resources
+C:\Users\NewVSB\Source\Repos\NewRepo2\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.FormEdit_Add_.resources
+D:\1\GitRepos\WindowsFormsApplication03\WindowsFormsApplication03\bin\Debug\WindowsFormsApplication03.exe.config
+D:\1\GitRepos\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.exe
+D:\1\GitRepos\WindowsFormsApplication03\WindowsFormsApplication03\obj\Debug\WindowsFormsApplication03.pdb
